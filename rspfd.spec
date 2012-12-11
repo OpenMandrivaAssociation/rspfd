@@ -35,3 +35,10 @@ Authors:
 %{_mandir}/man5/*.xz
 %{_mandir}/man8/*.xz
 %{_sbindir}/*
+
+
+%changelog
+* Thu May 10 2012 Alexander Khrukin <akhrukin@mandriva.org> 1.1-1
++ Revision: 798047
+- imported package rspfd
+
