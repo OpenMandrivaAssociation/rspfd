@@ -2,7 +2,7 @@ Name:         rspfd
 License:      GPL
 Group:        Communications
 Version:      1.1
-Release:      1
+Release:      2
 Summary:      Routing Daemon for Use Over Amateur Radio Links
 Source0:      http://rspf.sourceforge.net/rspf/rspfd-%{version}.tar.gz
 URL:          http://rspf.sourceforge.net/
