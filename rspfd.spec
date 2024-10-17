@@ -5,7 +5,7 @@ Version:      1.1
 Release:      2
 Summary:      Routing Daemon for Use Over Amateur Radio Links
 Source0:      http://rspf.sourceforge.net/rspf/rspfd-%{version}.tar.gz
-URL:          http://rspf.sourceforge.net/
+URL:          https://rspf.sourceforge.net/
 
 %description
 RSPFd is a routing daemon specifically designed to be used over amateur
